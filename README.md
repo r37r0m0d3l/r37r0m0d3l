@@ -64,5 +64,7 @@
 # Translations
 
 - [QuickLook](https://github.com/r37r0m0d3l/QuickLook)
+  Ukrainian translation pack
 
 - [Understanding ES6](https://github.com/LambdaBooks/understandinges6ua)
+  Full translation of the chapter "Modules"
