@@ -20,8 +20,14 @@
 
 ### CoreFunc
 
-- [CoreFunc](https://npmjs.com/package/@corefunc/corefunc)
+- [Functions](https://npmjs.com/package/@corefunc/corefunc)
   Utility collection with no deps
+
+- [Decorators](https://npmjs.com/package/@corefunc/decorators)
+  Decorators for modern JavaScript
+
+- [HTTP](https://npmjs.com/package/@corefunc/http)
+  Utilities and tools to help build HTTP requests
 
 ## Common Libararies
 

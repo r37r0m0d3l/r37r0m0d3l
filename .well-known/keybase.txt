@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/r37r0m0d3l
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://r37r0m0d3l.icu
+  * I am r37r0m0d3l (https://keybase.io/r37r0m0d3l) on keybase.
+  * I have a public key ASCXNlJUnJroBOrwAqnUFgfzNVRmIt1W2Bce89aWSSs4ZQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120973652549c9ae804eaf002a9d41607f335546622dd56d8171ef3d696492b38650a",
+      "host": "keybase.io",
+      "kid": "0120973652549c9ae804eaf002a9d41607f335546622dd56d8171ef3d696492b38650a",
+      "uid": "eff24b578e90fc45cbb92bcdeefdc219",
+      "username": "r37r0m0d3l"
+    },
+    "merkle_root": {
+      "ctime": 1584448198,
+      "hash": "62e745eb1727f4f572fdf284ad09666930111cdb155c7509fbd0e0a7c7865aaec0ebb8bf3a7a9d903ece896d57d7e0cd9aa5f93ccaa55efdcad4b2c7d7595824",
+      "hash_meta": "8f2c40af192638f3adf01978d0f4ed21b4cf49bcece95abade474ad05e137ccb",
+      "seqno": 15422952
+    },
+    "service": {
+      "entropy": "ReMxek2tiX27eMxpZAPRLZNP",
+      "hostname": "r37r0m0d3l.icu",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1584448222,
+  "expire_in": 504576000,
+  "prev": "d6ccba26f864336f1f6c282068764a9414c7465853ce6dfad8ca727fed5a9f5d",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEglzZSVJya6ATq8AKp1BYH8zVUZiLdVtgXHvPWlkkrOGUKp3BheWxvYWTESpcCE8Qg1sy6JvhkM28fbCggaHZKlBTHRlhTzm362Mpyf+1an13EIJ4IWlA8y6Sck2NreE5g0NiTcbkS1nhZsVrc5mVr0/GpAgHCo3NpZ8RA55ImgxVtQLq555ifBEHGS8Ha0O8/ZffPfMvbS0vL/Ptc8gIVgW6J5zrE6pxu3F0LkIrX25sdi9D6XzOsxXP9B6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIL6OxNJYajniHjrsN5lEk3RPPR3hEO+n/EdlUce1hdwPo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/r37r0m0d3l
+
+==================================================================
