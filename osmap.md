@@ -29,6 +29,9 @@
 - [🌐 HTTP](https://npmjs.com/package/@corefunc/http)
   Utilities and tools to help build HTTP requests
 
+- [🗺️ UpsertMap](https://www.npmjs.com/package/@corefunc/upsert-map)
+  JavaScript Map with upsert method
+
 ## Common Libararies
 
 - [🍭 OF](https://npmjs.com/package/@r37r0m0d3l/of)

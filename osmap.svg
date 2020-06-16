@@ -1,55 +1,67 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="mindmap" class="mm-xuvq9i-1" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
-    <style>.mm-xuvq9i-1 a { color: #0097e6; }
-        .mm-xuvq9i-1 a:hover { color: #00a8ff; }
-        .mm-xuvq9i-1-g &gt; path { fill: none; }
-        .mm-xuvq9i-1-fo &gt; div { font: 300 16px/20px sans-serif; white-space: nowrap; }
-        .mm-xuvq9i-1-fo code { padding: .2em .4em; font-size: calc(1em - 2px); color: #555; background-color: #f0f0f0;
+    <style>.mm-7rzya1-1 a { color: #0097e6; }
+        .mm-7rzya1-1 a:hover { color: #00a8ff; }
+        .mm-7rzya1-1-g &gt; path { fill: none; }
+        .mm-7rzya1-1-fo &gt; div { font: 300 16px/20px sans-serif; white-space: nowrap; }
+        .mm-7rzya1-1-fo code { padding: .2em .4em; font-size: calc(1em - 2px); color: #555; background-color: #f0f0f0;
         border-radius: 2px; }
-        .mm-xuvq9i-1-fo del { text-decoration: line-through; }
-        .mm-xuvq9i-1-fo em { font-style: italic; }
-        .mm-xuvq9i-1-fo strong { font-weight: 500; }
-        .mm-xuvq9i-1-fo pre { margin: 0; }
-        .mm-xuvq9i-1-fo pre[class*=language-] { padding: 0; }
-        .mm-xuvq9i-1-g &gt; g { cursor: pointer; }
+        .mm-7rzya1-1-fo del { text-decoration: line-through; }
+        .mm-7rzya1-1-fo em { font-style: italic; }
+        .mm-7rzya1-1-fo strong { font-weight: 500; }
+        .mm-7rzya1-1-fo pre { margin: 0; }
+        .mm-7rzya1-1-fo pre[class*=language-] { padding: 0; }
+        .mm-7rzya1-1-g &gt; g { cursor: pointer; }
 
     </style>
-    <g class="mm-xuvq9i-1-g" transform="translate(0,450) scale(1)">
-        <path d="M80,8C120,8,120,-398.75,160,-398.75" stroke="rgb(255, 127, 14)" stroke-width="4"></path>
-        <path d="M80,8C120,8,120,-41.25,160,-41.25" stroke="rgb(214, 39, 40)" stroke-width="4"></path>
-        <path d="M80,8C120,8,120,301.25,160,301.25" stroke="rgb(140, 86, 75)" stroke-width="4"></path>
-        <path d="M80,8C120,8,120,418.75,160,418.75" stroke="rgb(23, 190, 207)" stroke-width="4"></path>
-        <path d="M249,-398.75C289,-398.75,289,-388.75,329,-388.75" stroke="rgb(44, 160, 44)" stroke-width="2"></path>
-        <path d="M251,-41.25C291,-41.25,291,-288.75,331,-288.75" stroke="rgb(148, 103, 189)" stroke-width="2"></path>
-        <path d="M251,-41.25C291,-41.25,291,-78.75,331,-78.75" stroke="rgb(214, 39, 40)" stroke-width="2"></path>
-        <path d="M251,-41.25C291,-41.25,291,16.25,331,16.25" stroke="rgb(127, 127, 127)" stroke-width="2"></path>
-        <path d="M251,-41.25C291,-41.25,291,111.25,331,111.25" stroke="rgb(23, 190, 207)" stroke-width="2"></path>
-        <path d="M251,-41.25C291,-41.25,291,206.25,331,206.25" stroke="rgb(214, 39, 40)" stroke-width="2"></path>
-        <path d="M209,301.25C249,301.25,249,266.25,289,266.25" stroke="rgb(227, 119, 194)" stroke-width="2"></path>
-        <path d="M209,301.25C249,301.25,249,311.25,289,311.25" stroke="rgb(127, 127, 127)" stroke-width="2"></path>
-        <path d="M209,301.25C249,301.25,249,356.25,289,356.25" stroke="rgb(188, 189, 34)" stroke-width="2"></path>
-        <path d="M263,418.75C303,418.75,303,406.25,343,406.25" stroke="rgb(31, 119, 180)" stroke-width="2"></path>
-        <path d="M263,418.75C303,418.75,303,451.25,343,451.25" stroke="rgb(255, 127, 14)" stroke-width="2"></path>
-        <path d="M405,-288.75C445,-288.75,445,-358.75,485,-358.75" stroke="rgb(140, 86, 75)" stroke-width="1.5"></path>
-        <path d="M405,-288.75C445,-288.75,445,-218.75,485,-218.75" stroke="rgb(23, 190, 207)" stroke-width="1.5"></path>
-        <path d="M487,-78.75C527,-78.75,527,-113.75,567,-113.75" stroke="rgb(148, 103, 189)" stroke-width="1.5"></path>
-        <path d="M487,-78.75C527,-78.75,527,-68.75,567,-68.75" stroke="rgb(140, 86, 75)" stroke-width="1.5"></path>
-        <path d="M487,-78.75C527,-78.75,527,-23.75,567,-23.75" stroke="rgb(227, 119, 194)" stroke-width="1.5"></path>
-        <path d="M509,16.25C549,16.25,549,26.25,589,26.25" stroke="rgb(188, 189, 34)" stroke-width="1.5"></path>
-        <path d="M470,111.25C510,111.25,510,76.25,550,76.25" stroke="rgb(31, 119, 180)" stroke-width="1.5"></path>
-        <path d="M470,111.25C510,111.25,510,121.25,550,121.25" stroke="rgb(255, 127, 14)" stroke-width="1.5"></path>
-        <path d="M470,111.25C510,111.25,510,166.25,550,166.25" stroke="rgb(44, 160, 44)" stroke-width="1.5"></path>
-        <path d="M452,206.25C492,206.25,492,216.25,532,216.25" stroke="rgb(148, 103, 189)" stroke-width="1.5"></path>
-        <path d="M535,-358.75C575,-358.75,575,-393.75,615,-393.75" stroke="rgb(227, 119, 194)"
+    <g class="mm-7rzya1-1-g" transform="translate(446.96731182795696,460.12493279569895) scale(0.9571505376344086)">
+        <path d="M80,8C120,8,120,-421.25,160,-421.25" stroke="rgb(255, 127, 14)" stroke-width="4"></path>
+        <path d="M80,8C120,8,120,-35.625,160,-35.625" stroke="rgb(214, 39, 40)" stroke-width="4"></path>
+        <path d="M80,8C120,8,120,323.75,160,323.75" stroke="rgb(227, 119, 194)" stroke-width="4"></path>
+        <path d="M80,8C120,8,120,441.25,160,441.25" stroke="rgb(31, 119, 180)" stroke-width="4"></path>
+        <path d="M249,-421.25C289,-421.25,289,-411.25,329,-411.25" stroke="rgb(44, 160, 44)" stroke-width="2"></path>
+        <path d="M251,-35.625C291,-35.625,291,-300,331,-300" stroke="rgb(148, 103, 189)" stroke-width="2"></path>
+        <path d="M251,-35.625C291,-35.625,291,-56.25,331,-56.25" stroke="rgb(148, 103, 189)" stroke-width="2"></path>
+        <path d="M251,-35.625C291,-35.625,291,38.75,331,38.75" stroke="rgb(188, 189, 34)" stroke-width="2"></path>
+        <path d="M251,-35.625C291,-35.625,291,133.75,331,133.75" stroke="rgb(31, 119, 180)" stroke-width="2"></path>
+        <path d="M251,-35.625C291,-35.625,291,228.75,331,228.75" stroke="rgb(148, 103, 189)" stroke-width="2"></path>
+        <path d="M209,323.75C249,323.75,249,288.75,289,288.75" stroke="rgb(127, 127, 127)" stroke-width="2"></path>
+        <path d="M209,323.75C249,323.75,249,333.75,289,333.75" stroke="rgb(188, 189, 34)" stroke-width="2"></path>
+        <path d="M209,323.75C249,323.75,249,378.75,289,378.75" stroke="rgb(23, 190, 207)" stroke-width="2"></path>
+        <path d="M263,441.25C303,441.25,303,428.75,343,428.75" stroke="rgb(255, 127, 14)" stroke-width="2"></path>
+        <path d="M263,441.25C303,441.25,303,473.75,343,473.75" stroke="rgb(44, 160, 44)" stroke-width="2"></path>
+        <path d="M405,-300C445,-300,445,-381.25,485,-381.25" stroke="rgb(140, 86, 75)" stroke-width="1.5"></path>
+        <path d="M405,-300C445,-300,445,-218.75,485,-218.75" stroke="rgb(23, 190, 207)" stroke-width="1.5"></path>
+        <path d="M487,-56.25C527,-56.25,527,-91.25,567,-91.25" stroke="rgb(140, 86, 75)" stroke-width="1.5"></path>
+        <path d="M487,-56.25C527,-56.25,527,-46.25,567,-46.25" stroke="rgb(227, 119, 194)" stroke-width="1.5"></path>
+        <path d="M487,-56.25C527,-56.25,527,-1.25,567,-1.25" stroke="rgb(127, 127, 127)" stroke-width="1.5"></path>
+        <path d="M509,38.75C549,38.75,549,48.75,589,48.75" stroke="rgb(23, 190, 207)" stroke-width="1.5"></path>
+        <path d="M470,133.75C510,133.75,510,98.75,550,98.75" stroke="rgb(255, 127, 14)" stroke-width="1.5"></path>
+        <path d="M470,133.75C510,133.75,510,143.75,550,143.75" stroke="rgb(44, 160, 44)" stroke-width="1.5"></path>
+        <path d="M470,133.75C510,133.75,510,188.75,550,188.75" stroke="rgb(214, 39, 40)" stroke-width="1.5"></path>
+        <path d="M452,228.75C492,228.75,492,238.75,532,238.75" stroke="rgb(140, 86, 75)" stroke-width="1.5"></path>
+        <path d="M535,-381.25C575,-381.25,575,-416.25,615,-416.25" stroke="rgb(227, 119, 194)"
               stroke-width="1.5"></path>
-        <path d="M535,-358.75C575,-358.75,575,-348.75,615,-348.75" stroke="rgb(127, 127, 127)"
+        <path d="M535,-381.25C575,-381.25,575,-371.25,615,-371.25" stroke="rgb(127, 127, 127)"
               stroke-width="1.5"></path>
-        <path d="M535,-358.75C575,-358.75,575,-303.75,615,-303.75" stroke="rgb(188, 189, 34)" stroke-width="1.5"></path>
-        <path d="M572,-218.75C612,-218.75,612,-253.75,652,-253.75" stroke="rgb(31, 119, 180)" stroke-width="1.5"></path>
-        <path d="M572,-218.75C612,-218.75,612,-208.75,652,-208.75" stroke="rgb(255, 127, 14)" stroke-width="1.5"></path>
-        <path d="M572,-218.75C612,-218.75,612,-163.75,652,-163.75" stroke="rgb(44, 160, 44)" stroke-width="1.5"></path>
-        <g transform="translate(652, -203.75)">
+        <path d="M535,-381.25C575,-381.25,575,-326.25,615,-326.25" stroke="rgb(188, 189, 34)" stroke-width="1.5"></path>
+        <path d="M572,-218.75C612,-218.75,612,-276.25,652,-276.25" stroke="rgb(31, 119, 180)" stroke-width="1.5"></path>
+        <path d="M572,-218.75C612,-218.75,612,-231.25,652,-231.25" stroke="rgb(255, 127, 14)" stroke-width="1.5"></path>
+        <path d="M572,-218.75C612,-218.75,612,-186.25,652,-186.25" stroke="rgb(44, 160, 44)" stroke-width="1.5"></path>
+        <path d="M572,-218.75C612,-218.75,612,-141.25,652,-141.25" stroke="rgb(214, 39, 40)" stroke-width="1.5"></path>
+        <g transform="translate(652, -181.25)">
+            <rect x="-1" y="39.25" width="268" height="1.5" fill="rgb(214, 39, 40)"></rect>
+            <foreignObject class="mm-7rzya1-1-fo" x="8" y="0" height="40" width="250" style="opacity: 1;">
+                <div xmlns="http://www.w3.org/1999/xhtml">
+                    <a href="https://www.npmjs.com/package/@corefunc/upsert-map" title="" target="_blank"
+                       rel="noopener noreferrer">🗺️ UpsertMap
+                    </a>
+                    <br/>JavaScript Map with upsert method
+                </div>
+            </foreignObject>
+        </g>
+        <g transform="translate(652, -226.25)">
             <rect x="-1" y="39.25" width="342" height="1.5" fill="rgb(44, 160, 44)"></rect>
-            <foreignObject class="mm-xuvq9i-1-fo" x="8" y="0" height="40" width="324" style="opacity: 1;">
+            <foreignObject class="mm-7rzya1-1-fo" x="8" y="0" height="40" width="324" style="opacity: 1;">
                 <div xmlns="http://www.w3.org/1999/xhtml">
                     <a href="https://npmjs.com/package/@corefunc/http" title="" target="_blank"
                        rel="noopener noreferrer">🌐 HTTP
@@ -58,9 +70,9 @@
                 </div>
             </foreignObject>
         </g>
-        <g transform="translate(652, -248.75)">
+        <g transform="translate(652, -271.25)">
             <rect x="-1" y="39.25" width="258" height="1.5" fill="rgb(255, 127, 14)"></rect>
-            <foreignObject class="mm-xuvq9i-1-fo" x="8" y="0" height="40" width="240" style="opacity: 1;">
+            <foreignObject class="mm-7rzya1-1-fo" x="8" y="0" height="40" width="240" style="opacity: 1;">
                 <div xmlns="http://www.w3.org/1999/xhtml">
                     <a href="https://npmjs.com/package/@corefunc/decorators" title="" target="_blank"
                        rel="noopener noreferrer">☣️ Decorators
@@ -69,9 +81,9 @@
                 </div>
             </foreignObject>
         </g>
-        <g transform="translate(652, -293.75)">
+        <g transform="translate(652, -316.25)">
             <rect x="-1" y="39.25" width="223" height="1.5" fill="rgb(31, 119, 180)"></rect>
-            <foreignObject class="mm-xuvq9i-1-fo" x="8" y="0" height="40" width="205" style="opacity: 1;">
+            <foreignObject class="mm-7rzya1-1-fo" x="8" y="0" height="40" width="205" style="opacity: 1;">
                 <div xmlns="http://www.w3.org/1999/xhtml">
                     <a href="https://npmjs.com/package/@corefunc/corefunc" title="" target="_blank"
                        rel="noopener noreferrer">☢️ Functions
@@ -80,9 +92,9 @@
                 </div>
             </foreignObject>
         </g>
-        <g transform="translate(615, -343.75)">
+        <g transform="translate(615, -366.25)">
             <rect x="-1" y="39.25" width="250" height="1.5" fill="rgb(188, 189, 34)"></rect>
-            <foreignObject class="mm-xuvq9i-1-fo" x="8" y="0" height="40" width="232" style="opacity: 1;">
+            <foreignObject class="mm-7rzya1-1-fo" x="8" y="0" height="40" width="232" style="opacity: 1;">
                 <div xmlns="http://www.w3.org/1999/xhtml">
                     <a href="https://npmjs.com/package/@vicis/transform-date" title="" target="_blank"
                        rel="noopener noreferrer">🗓️ Transform Date
@@ -91,9 +103,9 @@
                 </div>
             </foreignObject>
         </g>
-        <g transform="translate(615, -388.75)">
+        <g transform="translate(615, -411.25)">
             <rect x="-1" y="39.25" width="302" height="1.5" fill="rgb(127, 127, 127)"></rect>
-            <foreignObject class="mm-xuvq9i-1-fo" x="8" y="0" height="40" width="284" style="opacity: 1;">
+            <foreignObject class="mm-7rzya1-1-fo" x="8" y="0" height="40" width="284" style="opacity: 1;">
                 <div xmlns="http://www.w3.org/1999/xhtml">
                     <a href="https://npmjs.com/package/@vicis/decorators" title="" target="_blank"
                        rel="noopener noreferrer">🔠 Serialization Desorators
@@ -102,19 +114,20 @@
                 </div>
             </foreignObject>
         </g>
-        <g transform="translate(615, -433.75)">
+        <g transform="translate(615, -456.25)">
             <rect x="-1" y="39.25" width="282" height="1.5" fill="rgb(227, 119, 194)"></rect>
-            <foreignObject class="mm-xuvq9i-1-fo" x="8" y="0" height="40" width="264" style="opacity: 1;">
+            <foreignObject class="mm-7rzya1-1-fo" x="8" y="0" height="40" width="264" style="opacity: 1;">
                 <div xmlns="http://www.w3.org/1999/xhtml">
-                    <a href="https://npmjs.com/package/vicis" title="" target="_blank" rel="noopener noreferrer">🧮 Data serialization
+                    <a href="https://npmjs.com/package/vicis" title="" target="_blank" rel="noopener noreferrer">🧮 Data
+                        serialization
                     </a>
                     <br/>Data layer for output in RESTful APIs
                 </div>
             </foreignObject>
         </g>
-        <g transform="translate(532, 176.25)">
-            <rect x="-1" y="39.25" width="324" height="1.5" fill="rgb(148, 103, 189)"></rect>
-            <foreignObject class="mm-xuvq9i-1-fo" x="8" y="0" height="40" width="306" style="opacity: 1;">
+        <g transform="translate(532, 198.75)">
+            <rect x="-1" y="39.25" width="324" height="1.5" fill="rgb(140, 86, 75)"></rect>
+            <foreignObject class="mm-7rzya1-1-fo" x="8" y="0" height="40" width="306" style="opacity: 1;">
                 <div xmlns="http://www.w3.org/1999/xhtml">
                     <a href="https://github.com/r37r0m0d3l/denof" title="" target="_blank" rel="noopener noreferrer">
                         🍬🦕 DenoOf
@@ -123,9 +136,9 @@
                 </div>
             </foreignObject>
         </g>
-        <g transform="translate(550, 126.25)">
-            <rect x="-1" y="39.25" width="217" height="1.5" fill="rgb(44, 160, 44)"></rect>
-            <foreignObject class="mm-xuvq9i-1-fo" x="8" y="0" height="40" width="199" style="opacity: 1;">
+        <g transform="translate(550, 148.75)">
+            <rect x="-1" y="39.25" width="217" height="1.5" fill="rgb(214, 39, 40)"></rect>
+            <foreignObject class="mm-7rzya1-1-fo" x="8" y="0" height="40" width="199" style="opacity: 1;">
                 <div xmlns="http://www.w3.org/1999/xhtml">
                     <a href="https://npmjs.com/package/@hilesystem/local" title="" target="_blank"
                        rel="noopener noreferrer">💽 HileSystem Local
@@ -134,9 +147,9 @@
                 </div>
             </foreignObject>
         </g>
-        <g transform="translate(550, 81.25)">
-            <rect x="-1" y="39.25" width="246" height="1.5" fill="rgb(255, 127, 14)"></rect>
-            <foreignObject class="mm-xuvq9i-1-fo" x="8" y="0" height="40" width="228" style="opacity: 1;">
+        <g transform="translate(550, 103.75)">
+            <rect x="-1" y="39.25" width="246" height="1.5" fill="rgb(44, 160, 44)"></rect>
+            <foreignObject class="mm-7rzya1-1-fo" x="8" y="0" height="40" width="228" style="opacity: 1;">
                 <div xmlns="http://www.w3.org/1999/xhtml">
                     <a href="https://npmjs.com/package/stringendo" title="" target="_blank" rel="noopener noreferrer">🔣
                         Stringendo
@@ -145,19 +158,20 @@
                 </div>
             </foreignObject>
         </g>
-        <g transform="translate(550, 36.25)">
-            <rect x="-1" y="39.25" width="239" height="1.5" fill="rgb(31, 119, 180)"></rect>
-            <foreignObject class="mm-xuvq9i-1-fo" x="8" y="0" height="40" width="221" style="opacity: 1;">
+        <g transform="translate(550, 58.75)">
+            <rect x="-1" y="39.25" width="239" height="1.5" fill="rgb(255, 127, 14)"></rect>
+            <foreignObject class="mm-7rzya1-1-fo" x="8" y="0" height="40" width="221" style="opacity: 1;">
                 <div xmlns="http://www.w3.org/1999/xhtml">
-                    <a href="https://npmjs.com/package/consono" title="" target="_blank" rel="noopener noreferrer">🖼️ Consono
+                    <a href="https://npmjs.com/package/consono" title="" target="_blank" rel="noopener noreferrer">🖼️
+                        Consono
                     </a>
                     <br/>Configurable variable inspector
                 </div>
             </foreignObject>
         </g>
-        <g transform="translate(589, -13.75)">
-            <rect x="-1" y="39.25" width="237" height="1.5" fill="rgb(188, 189, 34)"></rect>
-            <foreignObject class="mm-xuvq9i-1-fo" x="8" y="0" height="40" width="219" style="opacity: 1;">
+        <g transform="translate(589, 8.75)">
+            <rect x="-1" y="39.25" width="237" height="1.5" fill="rgb(23, 190, 207)"></rect>
+            <foreignObject class="mm-7rzya1-1-fo" x="8" y="0" height="40" width="219" style="opacity: 1;">
                 <div xmlns="http://www.w3.org/1999/xhtml">
                     <a href="https://npmjs.com/package/fallback-local-storage" title="" target="_blank"
                        rel="noopener noreferrer">📦 Local Storage Fallback
@@ -166,9 +180,9 @@
                 </div>
             </foreignObject>
         </g>
-        <g transform="translate(567, -63.75)">
-            <rect x="-1" y="39.25" width="295" height="1.5" fill="rgb(227, 119, 194)"></rect>
-            <foreignObject class="mm-xuvq9i-1-fo" x="8" y="0" height="40" width="277" style="opacity: 1;">
+        <g transform="translate(567, -41.25)">
+            <rect x="-1" y="39.25" width="295" height="1.5" fill="rgb(127, 127, 127)"></rect>
+            <foreignObject class="mm-7rzya1-1-fo" x="8" y="0" height="40" width="277" style="opacity: 1;">
                 <div xmlns="http://www.w3.org/1999/xhtml">
                     <a href="https://npmjs.com/package/decimalic" title="" target="_blank" rel="noopener noreferrer">🔢
                         Decimalic
@@ -177,9 +191,9 @@
                 </div>
             </foreignObject>
         </g>
-        <g transform="translate(567, -108.75)">
-            <rect x="-1" y="39.25" width="315" height="1.5" fill="rgb(140, 86, 75)"></rect>
-            <foreignObject class="mm-xuvq9i-1-fo" x="8" y="0" height="40" width="297" style="opacity: 1;">
+        <g transform="translate(567, -86.25)">
+            <rect x="-1" y="39.25" width="315" height="1.5" fill="rgb(227, 119, 194)"></rect>
+            <foreignObject class="mm-7rzya1-1-fo" x="8" y="0" height="40" width="297" style="opacity: 1;">
                 <div xmlns="http://www.w3.org/1999/xhtml">
                     <a href="https://npmjs.com/package/@r37r0m0d3l/publish_subscribe" title="" target="_blank"
                        rel="noopener noreferrer">📩 Publish Subscribe
@@ -188,9 +202,9 @@
                 </div>
             </foreignObject>
         </g>
-        <g transform="translate(567, -153.75)">
-            <rect x="-1" y="39.25" width="324" height="1.5" fill="rgb(148, 103, 189)"></rect>
-            <foreignObject class="mm-xuvq9i-1-fo" x="8" y="0" height="40" width="306" style="opacity: 1;">
+        <g transform="translate(567, -131.25)">
+            <rect x="-1" y="39.25" width="324" height="1.5" fill="rgb(140, 86, 75)"></rect>
+            <foreignObject class="mm-7rzya1-1-fo" x="8" y="0" height="40" width="306" style="opacity: 1;">
                 <div xmlns="http://www.w3.org/1999/xhtml">
                     <a href="https://npmjs.com/package/@r37r0m0d3l/of" title="" target="_blank"
                        rel="noopener noreferrer">🍭 OF
@@ -203,21 +217,21 @@
             <rect x="-1" y="19.25" width="89" height="1.5" fill="rgb(23, 190, 207)"></rect>
             <circle stroke-width="1.5" cx="87" cy="20" r="6" stroke="rgb(23, 190, 207)"
                     fill="rgb(255, 255, 255)"></circle>
-            <foreignObject class="mm-xuvq9i-1-fo" x="8" y="0" height="20" width="71" style="opacity: 1;">
+            <foreignObject class="mm-7rzya1-1-fo" x="8" y="0" height="20" width="71" style="opacity: 1;">
                 <div xmlns="http://www.w3.org/1999/xhtml">CoreFunc</div>
             </foreignObject>
         </g>
-        <g transform="translate(485, -378.75)">
+        <g transform="translate(485, -401.25)">
             <rect x="-1" y="19.25" width="52" height="1.5" fill="rgb(140, 86, 75)"></rect>
             <circle stroke-width="1.5" cx="50" cy="20" r="6" stroke="rgb(140, 86, 75)"
                     fill="rgb(255, 255, 255)"></circle>
-            <foreignObject class="mm-xuvq9i-1-fo" x="8" y="0" height="20" width="34" style="opacity: 1;">
+            <foreignObject class="mm-7rzya1-1-fo" x="8" y="0" height="20" width="34" style="opacity: 1;">
                 <div xmlns="http://www.w3.org/1999/xhtml">Vicis</div>
             </foreignObject>
         </g>
-        <g transform="translate(343, 411.25)">
-            <rect x="-1" y="39" width="301" height="2" fill="rgb(255, 127, 14)"></rect>
-            <foreignObject class="mm-xuvq9i-1-fo" x="8" y="0" height="40" width="283" style="opacity: 1;">
+        <g transform="translate(343, 433.75)">
+            <rect x="-1" y="39" width="301" height="2" fill="rgb(44, 160, 44)"></rect>
+            <foreignObject class="mm-7rzya1-1-fo" x="8" y="0" height="40" width="283" style="opacity: 1;">
                 <div xmlns="http://www.w3.org/1999/xhtml">
                     <a href="https://github.com/LambdaBooks/understandinges6ua" title="" target="_blank"
                        rel="noopener noreferrer">🇺🇦 Understanding ES6
@@ -226,9 +240,9 @@
                 </div>
             </foreignObject>
         </g>
-        <g transform="translate(343, 366.25)">
-            <rect x="-1" y="39" width="203" height="2" fill="rgb(31, 119, 180)"></rect>
-            <foreignObject class="mm-xuvq9i-1-fo" x="8" y="0" height="40" width="185" style="opacity: 1;">
+        <g transform="translate(343, 388.75)">
+            <rect x="-1" y="39" width="203" height="2" fill="rgb(255, 127, 14)"></rect>
+            <foreignObject class="mm-7rzya1-1-fo" x="8" y="0" height="40" width="185" style="opacity: 1;">
                 <div xmlns="http://www.w3.org/1999/xhtml">
                     <a href="https://github.com/r37r0m0d3l/QuickLook" title="" target="_blank"
                        rel="noopener noreferrer">🔍 QuickLook
@@ -237,9 +251,9 @@
                 </div>
             </foreignObject>
         </g>
-        <g transform="translate(289, 316.25)">
-            <rect x="-1" y="39" width="291" height="2" fill="rgb(188, 189, 34)"></rect>
-            <foreignObject class="mm-xuvq9i-1-fo" x="8" y="0" height="40" width="273" style="opacity: 1;">
+        <g transform="translate(289, 338.75)">
+            <rect x="-1" y="39" width="291" height="2" fill="rgb(23, 190, 207)"></rect>
+            <foreignObject class="mm-7rzya1-1-fo" x="8" y="0" height="40" width="273" style="opacity: 1;">
                 <div xmlns="http://www.w3.org/1999/xhtml">
                     <a href="https://github.com/r37r0m0d3l/PBKDF2-implementation-PHP" title="" target="_blank"
                        rel="noopener noreferrer">🔐 PBKDF2
@@ -248,9 +262,9 @@
                 </div>
             </foreignObject>
         </g>
-        <g transform="translate(289, 271.25)">
-            <rect x="-1" y="39" width="289" height="2" fill="rgb(127, 127, 127)"></rect>
-            <foreignObject class="mm-xuvq9i-1-fo" x="8" y="0" height="40" width="271" style="opacity: 1;">
+        <g transform="translate(289, 293.75)">
+            <rect x="-1" y="39" width="289" height="2" fill="rgb(188, 189, 34)"></rect>
+            <foreignObject class="mm-7rzya1-1-fo" x="8" y="0" height="40" width="271" style="opacity: 1;">
                 <div xmlns="http://www.w3.org/1999/xhtml">
                     <a href="https://github.com/r37r0m0d3l/XmlToArray" title="" target="_blank"
                        rel="noopener noreferrer">☯️ XML To Array
@@ -259,9 +273,9 @@
                 </div>
             </foreignObject>
         </g>
-        <g transform="translate(289, 226.25)">
-            <rect x="-1" y="39" width="289" height="2" fill="rgb(227, 119, 194)"></rect>
-            <foreignObject class="mm-xuvq9i-1-fo" x="8" y="0" height="40" width="271" style="opacity: 1;">
+        <g transform="translate(289, 248.75)">
+            <rect x="-1" y="39" width="289" height="2" fill="rgb(127, 127, 127)"></rect>
+            <foreignObject class="mm-7rzya1-1-fo" x="8" y="0" height="40" width="271" style="opacity: 1;">
                 <div xmlns="http://www.w3.org/1999/xhtml">
                     <a href="https://github.com/r37r0m0d3l/Array-to-XML-PHP" title="" target="_blank"
                        rel="noopener noreferrer">☯️ Array To XML
@@ -270,49 +284,49 @@
                 </div>
             </foreignObject>
         </g>
-        <g transform="translate(331, 186.25)">
-            <rect x="-1" y="19" width="123" height="2" fill="rgb(214, 39, 40)"></rect>
-            <circle stroke-width="1.5" cx="121" cy="20" r="6" stroke="rgb(214, 39, 40)"
+        <g transform="translate(331, 208.75)">
+            <rect x="-1" y="19" width="123" height="2" fill="rgb(148, 103, 189)"></rect>
+            <circle stroke-width="1.5" cx="121" cy="20" r="6" stroke="rgb(148, 103, 189)"
                     fill="rgb(255, 255, 255)"></circle>
-            <foreignObject class="mm-xuvq9i-1-fo" x="8" y="0" height="20" width="105" style="opacity: 1;">
+            <foreignObject class="mm-7rzya1-1-fo" x="8" y="0" height="20" width="105" style="opacity: 1;">
                 <div xmlns="http://www.w3.org/1999/xhtml">Deno Libraries</div>
             </foreignObject>
         </g>
-        <g transform="translate(331, 91.25)">
-            <rect x="-1" y="19" width="141" height="2" fill="rgb(23, 190, 207)"></rect>
-            <circle stroke-width="1.5" cx="139" cy="20" r="6" stroke="rgb(23, 190, 207)"
+        <g transform="translate(331, 113.75)">
+            <rect x="-1" y="19" width="141" height="2" fill="rgb(31, 119, 180)"></rect>
+            <circle stroke-width="1.5" cx="139" cy="20" r="6" stroke="rgb(31, 119, 180)"
                     fill="rgb(255, 255, 255)"></circle>
-            <foreignObject class="mm-xuvq9i-1-fo" x="8" y="0" height="20" width="123" style="opacity: 1;">
+            <foreignObject class="mm-7rzya1-1-fo" x="8" y="0" height="20" width="123" style="opacity: 1;">
                 <div xmlns="http://www.w3.org/1999/xhtml">NodeJS Libraries</div>
             </foreignObject>
         </g>
-        <g transform="translate(331, -3.75)">
-            <rect x="-1" y="19" width="180" height="2" fill="rgb(127, 127, 127)"></rect>
-            <circle stroke-width="1.5" cx="178" cy="20" r="6" stroke="rgb(127, 127, 127)"
+        <g transform="translate(331, 18.75)">
+            <rect x="-1" y="19" width="180" height="2" fill="rgb(188, 189, 34)"></rect>
+            <circle stroke-width="1.5" cx="178" cy="20" r="6" stroke="rgb(188, 189, 34)"
                     fill="rgb(255, 255, 255)"></circle>
-            <foreignObject class="mm-xuvq9i-1-fo" x="8" y="0" height="20" width="162" style="opacity: 1;">
+            <foreignObject class="mm-7rzya1-1-fo" x="8" y="0" height="20" width="162" style="opacity: 1;">
                 <div xmlns="http://www.w3.org/1999/xhtml">Web Browser Libraries</div>
             </foreignObject>
         </g>
-        <g transform="translate(331, -98.75)">
-            <rect x="-1" y="19" width="158" height="2" fill="rgb(214, 39, 40)"></rect>
-            <circle stroke-width="1.5" cx="156" cy="20" r="6" stroke="rgb(214, 39, 40)"
+        <g transform="translate(331, -76.25)">
+            <rect x="-1" y="19" width="158" height="2" fill="rgb(148, 103, 189)"></rect>
+            <circle stroke-width="1.5" cx="156" cy="20" r="6" stroke="rgb(148, 103, 189)"
                     fill="rgb(255, 255, 255)"></circle>
-            <foreignObject class="mm-xuvq9i-1-fo" x="8" y="0" height="20" width="140" style="opacity: 1;">
+            <foreignObject class="mm-7rzya1-1-fo" x="8" y="0" height="20" width="140" style="opacity: 1;">
                 <div xmlns="http://www.w3.org/1999/xhtml">Common Libararies</div>
             </foreignObject>
         </g>
-        <g transform="translate(331, -308.75)">
+        <g transform="translate(331, -320)">
             <rect x="-1" y="19" width="76" height="2" fill="rgb(148, 103, 189)"></rect>
             <circle stroke-width="1.5" cx="74" cy="20" r="6" stroke="rgb(148, 103, 189)"
                     fill="rgb(255, 255, 255)"></circle>
-            <foreignObject class="mm-xuvq9i-1-fo" x="8" y="0" height="20" width="58" style="opacity: 1;">
+            <foreignObject class="mm-7rzya1-1-fo" x="8" y="0" height="20" width="58" style="opacity: 1;">
                 <div xmlns="http://www.w3.org/1999/xhtml">Projects</div>
             </foreignObject>
         </g>
-        <g transform="translate(329, -428.75)">
+        <g transform="translate(329, -451.25)">
             <rect x="-1" y="39" width="157" height="2" fill="rgb(44, 160, 44)"></rect>
-            <foreignObject class="mm-xuvq9i-1-fo" x="8" y="0" height="40" width="139" style="opacity: 1;">
+            <foreignObject class="mm-7rzya1-1-fo" x="8" y="0" height="40" width="139" style="opacity: 1;">
                 <div xmlns="http://www.w3.org/1999/xhtml">
                     <a href="https://r37r0m0d3l.github.io/json_sort/" title="" target="_blank"
                        rel="noopener noreferrer">〽️ JSON Sorter
@@ -321,35 +335,35 @@
                 </div>
             </foreignObject>
         </g>
-        <g transform="translate(160, 398.75)">
-            <rect x="-1" y="18" width="105" height="4" fill="rgb(23, 190, 207)"></rect>
-            <circle stroke-width="1.5" cx="103" cy="20" r="6" stroke="rgb(23, 190, 207)"
+        <g transform="translate(160, 421.25)">
+            <rect x="-1" y="18" width="105" height="4" fill="rgb(31, 119, 180)"></rect>
+            <circle stroke-width="1.5" cx="103" cy="20" r="6" stroke="rgb(31, 119, 180)"
                     fill="rgb(255, 255, 255)"></circle>
-            <foreignObject class="mm-xuvq9i-1-fo" x="8" y="0" height="20" width="87" style="opacity: 1;">
+            <foreignObject class="mm-7rzya1-1-fo" x="8" y="0" height="20" width="87" style="opacity: 1;">
                 <div xmlns="http://www.w3.org/1999/xhtml">Translations</div>
             </foreignObject>
         </g>
-        <g transform="translate(160, 281.25)">
-            <rect x="-1" y="18" width="51" height="4" fill="rgb(140, 86, 75)"></rect>
-            <circle stroke-width="1.5" cx="49" cy="20" r="6" stroke="rgb(140, 86, 75)"
+        <g transform="translate(160, 303.75)">
+            <rect x="-1" y="18" width="51" height="4" fill="rgb(227, 119, 194)"></rect>
+            <circle stroke-width="1.5" cx="49" cy="20" r="6" stroke="rgb(227, 119, 194)"
                     fill="rgb(255, 255, 255)"></circle>
-            <foreignObject class="mm-xuvq9i-1-fo" x="8" y="0" height="20" width="33" style="opacity: 1;">
+            <foreignObject class="mm-7rzya1-1-fo" x="8" y="0" height="20" width="33" style="opacity: 1;">
                 <div xmlns="http://www.w3.org/1999/xhtml">PHP</div>
             </foreignObject>
         </g>
-        <g transform="translate(160, -61.25)">
+        <g transform="translate(160, -55.625)">
             <rect x="-1" y="18" width="93" height="4" fill="rgb(214, 39, 40)"></rect>
             <circle stroke-width="1.5" cx="91" cy="20" r="6" stroke="rgb(214, 39, 40)"
                     fill="rgb(255, 255, 255)"></circle>
-            <foreignObject class="mm-xuvq9i-1-fo" x="8" y="0" height="20" width="75" style="opacity: 1;">
+            <foreignObject class="mm-7rzya1-1-fo" x="8" y="0" height="20" width="75" style="opacity: 1;">
                 <div xmlns="http://www.w3.org/1999/xhtml">JavaScript</div>
             </foreignObject>
         </g>
-        <g transform="translate(160, -418.75)">
+        <g transform="translate(160, -441.25)">
             <rect x="-1" y="18" width="91" height="4" fill="rgb(255, 127, 14)"></rect>
             <circle stroke-width="1.5" cx="89" cy="20" r="6" stroke="rgb(255, 127, 14)"
                     fill="rgb(255, 255, 255)"></circle>
-            <foreignObject class="mm-xuvq9i-1-fo" x="8" y="0" height="20" width="73" style="opacity: 1;">
+            <foreignObject class="mm-7rzya1-1-fo" x="8" y="0" height="20" width="73" style="opacity: 1;">
                 <div xmlns="http://www.w3.org/1999/xhtml">Web Apps</div>
             </foreignObject>
         </g>
@@ -357,7 +371,7 @@
             <rect x="-1" y="13" width="2" height="6" fill="rgb(31, 119, 180)"></rect>
             <circle stroke-width="1.5" cx="0" cy="16" r="6" stroke="rgb(31, 119, 180)"
                     fill="rgb(255, 255, 255)"></circle>
-            <foreignObject class="mm-xuvq9i-1-fo" x="8" y="0" height="16" width="0" style="opacity: 1;">
+            <foreignObject class="mm-7rzya1-1-fo" x="8" y="0" height="16" width="0" style="opacity: 1;">
                 <div xmlns="http://www.w3.org/1999/xhtml"></div>
             </foreignObject>
         </g>
