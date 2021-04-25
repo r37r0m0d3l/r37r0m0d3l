@@ -108,7 +108,7 @@
             <foreignObject class="mm-7rzya1-1-fo" x="8" y="0" height="40" width="284" style="opacity: 1;">
                 <div xmlns="http://www.w3.org/1999/xhtml">
                     <a href="https://npmjs.com/package/@vicis/decorators" title="" target="_blank"
-                       rel="noopener noreferrer">🔠 Serialization Desorators
+                       rel="noopener noreferrer">🔠 Serialization Decorators
                     </a>
                     <br/>Create serializable data without a config
                 </div>
