@@ -2,7 +2,7 @@
   "author": "r37r0m0d3l",
   "background_color": "#ffffff",
   "default_locale": "en",
-  "description": "Anton Trofimenko",
+  "description": "Anton Trofymenko",
   "display": "standalone",
   "homepage_url": "https://r37r0m0d3l.icu",
   "icons": [
@@ -44,13 +44,13 @@
     }
   ],
   "manifest_version": 2,
-  "name": "Anton Trofimenko",
+  "name": "Anton Trofymenko",
   "offline_enabled": true,
   "omnibox": {
     "keyword": "person"
   },
   "orientation": "portrait",
-  "short_name": "Anton Trofimenko",
+  "short_name": "Anton Trofymenko",
   "start_url": "https://r37r0m0d3l.icu/index.html",
   "theme_color": "#1a237e",
   "version": "2021.04.24"
